@@ -9,6 +9,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LoanPoject.Data", "LoanPoje
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LoanProject.Domain", "LoanProject.Domain\LoanProject.Domain.csproj", "{D3CEE38E-3CD1-4704-B2F6-4FD7526EEDA4}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{72AE12EC-D4A6-4985-B22D-7FAEB05258D1}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoanProject.Test", "LoanProject.Test\LoanProject.Test.csproj", "{6BAD7681-CEF1-4FDF-B08D-88D5959C573A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +34,10 @@ Global
 		{D3CEE38E-3CD1-4704-B2F6-4FD7526EEDA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D3CEE38E-3CD1-4704-B2F6-4FD7526EEDA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D3CEE38E-3CD1-4704-B2F6-4FD7526EEDA4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6BAD7681-CEF1-4FDF-B08D-88D5959C573A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BAD7681-CEF1-4FDF-B08D-88D5959C573A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BAD7681-CEF1-4FDF-B08D-88D5959C573A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BAD7681-CEF1-4FDF-B08D-88D5959C573A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
