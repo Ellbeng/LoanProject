@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\LOAN\LoanProject\LoanProject.Domain\bin\Debug\net6.0\LoanProject.Domain.deps.json
+C:\Users\user\Desktop\LOAN\LoanProject\LoanProject.Domain\bin\Debug\net6.0\LoanProject.Domain.runtimeconfig.json
+C:\Users\user\Desktop\LOAN\LoanProject\LoanProject.Domain\bin\Debug\net6.0\LoanProject.Domain.dll
+C:\Users\user\Desktop\LOAN\LoanProject\LoanProject.Domain\bin\Debug\net6.0\LoanProject.Domain.pdb
+C:\Users\user\Desktop\LOAN\LoanProject\LoanProject.Domain\obj\Debug\net6.0\LoanProject.Domain.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\LOAN\LoanProject\LoanProject.Domain\obj\Debug\net6.0\LoanProject.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\LOAN\LoanProject\LoanProject.Domain\obj\Debug\net6.0\LoanProject.Domain.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\LOAN\LoanProject\LoanProject.Domain\obj\Debug\net6.0\LoanProject.Domain.AssemblyInfo.cs
+C:\Users\user\Desktop\LOAN\LoanProject\LoanProject.Domain\obj\Debug\net6.0\LoanProject.Domain.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\LOAN\LoanProject\LoanProject.Domain\obj\Debug\net6.0\LoanProject.Domain.dll
+C:\Users\user\Desktop\LOAN\LoanProject\LoanProject.Domain\obj\Debug\net6.0\refint\LoanProject.Domain.dll
+C:\Users\user\Desktop\LOAN\LoanProject\LoanProject.Domain\obj\Debug\net6.0\LoanProject.Domain.pdb
+C:\Users\user\Desktop\LOAN\LoanProject\LoanProject.Domain\obj\Debug\net6.0\LoanProject.Domain.genruntimeconfig.cache
+C:\Users\user\Desktop\LOAN\LoanProject\LoanProject.Domain\obj\Debug\net6.0\ref\LoanProject.Domain.dll
