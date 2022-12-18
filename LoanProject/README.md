@@ -26,7 +26,7 @@ GetLoanByID,DeleteUser,DeleteLoan,PutUserBlock and PutLoan methods.
     * Request Body Example(This is admin's email and password, which is registered in DB'):
 
 
-        ```json
+        ```
 {
   "email": "Admin@gmail.com",
   "password": ".Admin@123"
