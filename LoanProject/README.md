@@ -104,7 +104,7 @@ GetLoanByID,DeleteUser,DeleteLoan,PutUserBlock and PutLoan methods.
   * Response Example:
 
     ```json
-   {
+    {
       "id": 19,
       "firstName": "Admin",
       "lastName": "Admin",
@@ -132,7 +132,7 @@ GetLoanByID,DeleteUser,DeleteLoan,PutUserBlock and PutLoan methods.
       "role": "User",
       "salt": "s1d3XsuRIhHwG5+SJvVxCg=="
     }
-     ```
+    ```
 
 
 
